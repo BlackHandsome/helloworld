@@ -1,3 +1,3 @@
 # helloworld
-first use github\n
-just want to improve my level of program\n
+first use github;
+just want to improve my level of program;
